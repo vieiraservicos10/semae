@@ -1,0 +1,9 @@
+corretor_igpm/
+├── CONTASFORMATADAS.csv
+├── indice.csv
+├── cda.csv
+├── corretor_igpm_gui.py                 ← só IGP-M (justo)
+├── semae_contas_corrigidas_cda_gui.py   ← conforme texto da CDA
+├── semae_real_correcao_gui.py           ← conforme prática real (CDA 0000510/2023)
+├── requirements.txt
+└── README.md
