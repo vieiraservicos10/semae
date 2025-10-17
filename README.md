@@ -1,6 +1,8 @@
+este código foi gerado, com auxílio de inteligência artificial, com o objetivo de contestar cálculos, e fazer proposta de acordo de dívidas. essa publicação é somente para dar acesso aos interessados.
+
 # 🧮 Corretor de Contas SEMAE – Comparação Técnica de Cálculos
 
-Este projeto oferece uma **ferramenta pública, gratuita e auditável** para análise e comparação de débitos relativos ao consumo de água e esgotamento sanitário junto ao **Serviço Municipal de Água e Esgoto (SEMAE) de Rio do Sul/SC**.
+Este projeto oferece uma **ferramenta pública, gratuita e auditável** para análise e comparação de débitos relativos ao consumo de água e esgotamento sanitário junto ao **Serviço Municipal de Água e Esgoto (SEMAE) de São Leopoldo/RS**.
 
 Desenvolvido com rigor técnico e baseado em dados oficiais, o sistema permite comparar **três abordagens distintas** de atualização de valores, todas aplicadas aos mesmos débitos e atualizadas até **30/09/2025**:
 
